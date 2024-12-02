@@ -1,7 +1,7 @@
-import nomeRoute from './nomeRoute';
+import usuarioRoute from "./usuarioRoute";
 
 function Routes(app) {
-  nomeRoute(app);
+  usuarioRoute(app);
 }
 
 export default Routes;

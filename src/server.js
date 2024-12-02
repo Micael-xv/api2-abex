@@ -37,5 +37,5 @@ app.use((req, res) => {
 });
 
 app.listen(process.env.API_PORT, () => {
-  console.log(`MINHA API running in ${process.env.API_PORT}`);
+  console.log(`ABEX TESTE DE DIABETE running in ${process.env.API_PORT}`);
 });
